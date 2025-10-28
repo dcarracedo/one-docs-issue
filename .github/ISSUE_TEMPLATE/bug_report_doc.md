@@ -1,6 +1,6 @@
 ---
 name: Documentation Bug report
-about: Create a report to help us improve the OpenNebula documentation
+about: The purpose of this form is the report issues in the documentation. For bugs in OpenNebula and the relevant documentation, report a bug [here](https://github.com/OpenNebula/one/issues/new?template=bug_report.md)
 labels: 
   - 'Status: Pending'
   - 'Category: Documentation'
